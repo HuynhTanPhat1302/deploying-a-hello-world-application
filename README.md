@@ -13,8 +13,10 @@ This repository contains:
 
 ## Table of Contents
 
-- [Installation](#Installation)
-- [Documentaion](#Documentation)
+- [Installation](#installation)
+- [Documentaion](#documentation)
+- [Authors](#authors)
+- [License](#license)
 
 ## Installation
 
